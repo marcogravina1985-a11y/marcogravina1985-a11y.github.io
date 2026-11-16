@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.marcogravina1985_a11y.twa",
+        "sha256_cert_fingerprints": ["CB:CA:89:ED:6A:8C:FF:A2:E5:6A:80:54:0E:38:AD:E2:D2:FD:20:BD:92:81:6A:58:A0:90:1A:A3:B5:F5:97:E9"]
+      }
+    }]
